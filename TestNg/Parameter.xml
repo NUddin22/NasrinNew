@@ -1,0 +1,7 @@
+<suite>
+<test>
+<parater name="browser" value="chome">
+<parater name="url" valu="google.com"></parater>
+</parater>
+</test>
+</suite>

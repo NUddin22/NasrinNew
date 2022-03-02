@@ -1,0 +1,9 @@
+<suite name=parallel="tests">
+<test name="">
+<classes>
+<class name="com.bit.test.RegressionTest"></class>
+<class name="com.bit.test.SmokeTest"></class>
+
+</classes>
+</test>
+</suite>

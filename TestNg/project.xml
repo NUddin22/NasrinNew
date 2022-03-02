@@ -1,0 +1,27 @@
+<suite name="Regession">"
+<test>
+<classes>
+<class name="com.bit.test.SmokeTest">
+<method>
+<include name="test1">
+</include>
+</method>
+</class>
+<class name="com.bit.test.SmokeTest"></class>
+</classes>
+</test>
+<test name="gruoptest">
+<groups>
+
+<include name="ui">
+</include>
+<run>
+<include name="ui"></include>
+</run>
+</groups>
+<packages>
+<package name="com.bit.test"></package>
+</packages>
+</test>
+</suite>
+
